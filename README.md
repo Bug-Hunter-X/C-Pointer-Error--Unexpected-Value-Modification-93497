@@ -1,0 +1,1 @@
+This repository showcases a common C programming error involving pointers and demonstrates how to fix it. The `bug.c` file contains code that incorrectly modifies a variable through a pointer, resulting in an unexpected output. The `bugSolution.c` file provides the corrected version, showing how to prevent the error and achieve the intended outcome.
